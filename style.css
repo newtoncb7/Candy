@@ -1,0 +1,145 @@
+
+h1 {
+	text-align: center;
+	font-family: 'Modak', serif ;
+	font-size: 50px;
+	color: #EF8AFF;
+}
+
+h2 {
+	text-align: center;
+	font-family: 'Libre Baskerville', serif;
+	font-size: 35px;
+}
+
+h3 {
+	text-align: left;
+	font-size: 20px;
+	font-family: serif;
+}
+
+
+
+
+a {
+	font-family: 'Crimson text', serif;
+}
+
+section {
+	padding-top: 10px;
+}
+
+body {
+  background-image: url("Home/Sprinkle.jpg");
+  background-repeat: repeat;
+}
+
+/* NAV BAR */
+
+nav {
+	background-color: #F8CCFF;
+	color: #fff;
+	font-size: 18px;
+	padding: 10px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	margin-right: 15px;
+}
+
+nav a {
+	color: #fff;
+	text-decoration: none;
+	padding: 5px;
+}
+
+nav a:hover {
+	background-color: #EF8AFF;
+}
+
+nav .active a {
+	background-color: #EF8AFF;
+}
+/* END NAV BAR */
+
+/* Carousel */
+
+img {
+	padding-right: 75px;
+	padding-left: 75px;
+	padding-bottom: 50px;
+}
+
+/* END CAROUSEL */
+
+/* HOME */
+
+
+
+
+#Welcome .container{
+	background-color: #F8CCFF;
+
+}
+
+
+
+
+/* HERSHEY */
+
+p {
+font-family: 'Ysabeau', sans-serif;
+font-size: 20px;
+
+}
+
+
+
+.card {
+	background-color: #F8CCFF;
+}
+
+
+#Hershey {
+	background-color: rgba(255, 242, 255, 0.6);
+
+}
+
+
+/* Twix */
+
+.image-container {
+      padding: 10px;
+    }
+
+img {
+      width: 100%; 
+      height: auto; 
+      display: block; 
+    }
+
+
+/* CONTACT */
+
+#Citation {
+	background-color: rgba(255, 242, 255, 0.6);
+	text-align: center;
+}
+
+
+footer {
+  bottom: 0;
+  width: 100%;
+  background-color: #EF8AFF;
+}
+
+
+
+
